@@ -5,4 +5,4 @@
 
 # Data
 
-The data was collected by reading through Twitter API on July 11,2021.5000 most recent tweets were taken to conduct the analysis.
+The data was collected by reading through Twitter API on July 16,2021.10000 most recent tweets from `#workfromhome`   and `#remotework` were taken to conduct the analysis.
