@@ -20,7 +20,8 @@
    * Wordcloud
    
 ## Outside Research
-
+* [WFH backlash builds](https://www.linkedin.com/news/story/wfh-backlash-builds-from-bosses-5498634/)
+* [Blind App Survey](https://www.forbes.com/sites/jackkelly/2021/05/21/survey-asks-employees-at-top-us-companies-if-theyd-give-up-30000-to-work-from-home-the-answers-may-surprise-you/?sh=190963de330f)
 # Data
 
 ## **Data Source**
