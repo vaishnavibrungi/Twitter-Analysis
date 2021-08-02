@@ -1,8 +1,9 @@
 # **Problem Statement**
 
-* Even as COVID-19 cases expand and companies like Apple postpone return-to-office dates, a number of firms are demanding a return to in-person attendance. Many offices nationally are already at full capacity.
-* According to a recent survey conducted by Blind app on 3000 employees, 64%—responded that they wanted to continue staying at home. 
-* The objective of this project is to analyse the tweets based on `#workfromhome` and `#remotework` using NLP , BERT Sentiment Analyzer and Clustering
+* Even though many companies allowed their staff to work remotely before the COVID-19 pandemic hit the world, it became the new norm after that. As the pandemic spread, forcing the world to go into lockdown, business organizations were left with no other option than to switch to online working. As a result, there has been a drastic increase in the number of remote workers, lately.After a year-and-a-half hiatus, many offices are opening up. Most companies are asking that employees return on a hybrid basis, meaning they come into the office at least some of the time. But what exactly that will look like is uncertain.
+* Since the begining of pandemic,to address the people eagerness and to express their views, the trend of people has moved very fast towards social media. Twitter has emerged as one of the most popular platforms among those social media platforms. 
+* Hence, to understand people's view on whether they are  comfortable with Work from home or they want to come back to offices , I considered analyzing the worldwide  twitter data.
+* Initially,I wanted to concentrate on sentiment analysis alone but later analysis was more on what the tweets based on `#workfromhome` and `#remotework` are about.
 
 # **Summary**
 
@@ -32,3 +33,6 @@ The data was collected by reading through Twitter API on from July 11,2021 to Ju
 # **Findings**
 
 # **Next Steps**
+* To conduct an online survey on remote work and use the survey results  along with twitter data to analyze people's views.
+* Collect one to three months of twitter data 
+* Using a trained sentiment analysis dataset and use twitter data as test data to predict sentiment of tweets.Compare and see if the results would vary between a trained dataset and BERT sentiment analyzer.
