@@ -1,9 +1,9 @@
 # **Problem Statement**
 
-* Even though many companies allowed their staff to work remotely before the COVID-19 pandemic hit the world, it became the new norm after that. As the pandemic spread, forcing the world to go into lockdown, business organizations were left with no other option than to switch to online working. As a result, there has been a drastic increase in the number of remote workers, lately.After a year-and-a-half hiatus, many offices are opening up. Most companies are asking that employees return on a hybrid basis, meaning they come into the office at least some of the time. But what exactly that will look like is uncertain.
-* Since the begining of pandemic,to address the people eagerness and to express their views, the trend of people has moved very fast towards social media. Twitter has emerged as one of the most popular platforms among those social media platforms. 
+* Even though many companies had allowed their staff to work remotely before the COVID-19 pandemic hit the world, it became the new norm after that. As the pandemic spread, forcing the world to go into lockdown, business organizations were left with no other option than to switch to online working. As a result, there had been a drastic increase in the number of remote workers, lately.After a year-and-a-half long hiatus, many offices are opening up. Most companies are asking that employees return on a hybrid basis, meaning they come into the office at least some of the time. But what exactly that will look like is uncertain.
+* Since the begining of pandemic,to address the people's eagerness and to express their views, the trend of people has moved very fast towards social media platforms. Twitter has emerged as one of the most popular platforms among those. 
 * Hence, to understand people's view on whether they are  comfortable with Work from home or they want to come back to offices , I considered analyzing the worldwide  twitter data.
-* Initially,I wanted to concentrate on sentiment analysis alone but later analysis was more on what the tweets based on `#workfromhome` and `#remotework` are about.
+* This project aims to study `#workfromhome` and `#remotework` related tweets to find out the opinions expressed by people.
 
 # **Summary**
 
