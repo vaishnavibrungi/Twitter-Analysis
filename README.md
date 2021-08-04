@@ -64,12 +64,12 @@
 | user_location_cleaned |  object | twitter_df | location after replacing them with country user belongs to |
 |        polarity       |  object | twitter_df |                   sentiment of the tweet                   |
 # **Findings**
-### Remote job openings in IT sector 
+### Cluster - 1 : Remote job openings in IT sector 
 Tweets in this cluster were about : 
 * Job openings for 'python developer','data analyst', 'cloud infrastructure engineer','block chain developer','Dotnet developer','block chain developer','full stack developer' in US,UK,Canada,Japan,Norway,Philippines,India,Switzerland.
 * Job openings for 'Director' and 'Architect' level in the US.\
 ![image](./images/cluster0_wc.png)
-### Impact of work from home on remote workers
+### Cluster - 2 : Impact of work from home on remote workers
 Tweets in this cluster were about : 
 * How mental health has been affected during pandemics and tips to maintain mental health.
 * Impact of work from home on work-life balance and tips to maintain work-life balance.
@@ -79,7 +79,7 @@ Tweets in this cluster were about :
 * How employers can use hybrid work flexibility to attract talent and challenges with a hybrid work model.
 * People sharing their experience working from home like how they were reluctant with the idea of work from home initially and how they got adapted to it.\
 ![image](./images/cluster1_wc.png)
-### Classified ads on home office setup accessories
+### Cluster - 3 : Classified ads on home office setup accessories
 Tweets in this cluster were about : 
 * Deals to buy desks, chairs, desktop organizers, masks.
 * Concern of people over the rise of covid cases 
@@ -87,7 +87,7 @@ Tweets in this cluster were about :
 * Job openings for Nurse, teacher, Content Moderator from the UK.
 * job opening for Telesales agent from Canada.\
 ![image](./images/cluster2_wc.png)
-### Remote job openings in Non-IT and tips on how to manage remote jobs 
+### Cluster - 4 : Remote job openings in Non-IT and tips on how to manage remote jobs 
 Tweets in this cluster were about : 
 * Job openings in Sales/Salesforce/B2B Sales in US,UK,Canada,India,Kenya,Mexico.
 * Software tools to enhance work from home experience, work productivity tools to boost productivity.
